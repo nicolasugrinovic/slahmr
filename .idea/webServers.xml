@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="aaefbb1d-18d2-4c84-97fd-1e0cc09147fc" name="kada_sla_r">
+        <fileTransfer rootFolder="/home/nugrinovic/code/CVPR_2024/slahmr" accessType="SFTP" host="kada" port="22" sshConfigId="4dd7df4f-1722-41d5-b2a9-11f7f1fdfe0a" sshConfig="nugrinovic@kada:22 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
